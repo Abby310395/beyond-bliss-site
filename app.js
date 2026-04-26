@@ -264,8 +264,10 @@ function startRazorpay(customer) {
     });
     lines.push("", `*Total: ${inr(total)}* (FREE shipping)`);
     const msg = encodeURIComponent(lines.join("\n"));
-    alert("⚠️ Razorpay not configured yet.\n\nWe'll redirect you to WhatsApp to confirm the order.\nReplace 'rzp_test_REPLACE_ME' in app.js with your Razorpay Key ID to enable card/UPI payments.");
-    window.open(`https://wa.me/${CONFIG.WHATSAPP_NUMBER}?text=${msg}`, "_blank");
+    // Soft notice + WhatsApp redirect — customer sees a friendly message
+    if (confirm("Almost done! 🎉\n\nWe'll send your order details to our team on WhatsApp to confirm and arrange payment via UPI / bank transfer.\n\nClick OK to continue.")) {
+      window.open(`https://wa.me/${CONFIG.WHATSAPP_NUMBER}?text=${msg}`, "_blank");
+    }
     return;
   }
   
