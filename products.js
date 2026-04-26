@@ -24,7 +24,7 @@ const PRODUCTS = [
     "discount": 35,
     "category": "kitchen",
     "categoryLabel": "Kitchen & Dining",
-    "image": "/products/serving-redi.jpg",
+    "image": "/serving-redi.jpg",
     "dimensions": "Sheesham · Wheels",
     "desc": "Wooden Legacy multi-functional serving redi / decoration trolley for kitchen."
   },
@@ -37,7 +37,7 @@ const PRODUCTS = [
     "discount": 34,
     "category": "kitchen",
     "categoryLabel": "Kitchen & Dining",
-    "image": "/products/coffee-tray-set.jpg",
+    "image": "/coffee-tray-set.jpg",
     "dimensions": "Set of 3 · S/M/L",
     "desc": "Wooden serving trays with handle — set of 3: large, medium, small."
   },
@@ -50,7 +50,7 @@ const PRODUCTS = [
     "discount": 34,
     "category": "kitchen",
     "categoryLabel": "Kitchen & Dining",
-    "image": "/products/dry-fruit-box-big.jpg",
+    "image": "/dry-fruit-box-big.jpg",
     "dimensions": "Large · 4-compartment",
     "desc": "Wooden dry fruit gift box — multipurpose mukhwas / chocolates box for Diwali & festivals."
   },
@@ -63,7 +63,7 @@ const PRODUCTS = [
     "discount": 33,
     "category": "kitchen",
     "categoryLabel": "Kitchen & Dining",
-    "image": "/products/sugar-coffee-tea-set.jpg",
+    "image": "/sugar-coffee-tea-set.jpg",
     "dimensions": "3 jars + tray",
     "desc": "Wooden tea, coffee & sugar container set — 3 jars, handles, wooden tray."
   },
@@ -76,7 +76,7 @@ const PRODUCTS = [
     "discount": 34,
     "category": "kitchen",
     "categoryLabel": "Kitchen & Dining",
-    "image": "/products/square-masala-box.jpg",
+    "image": "/square-masala-box.jpg",
     "dimensions": "9 sections + spoon",
     "desc": "Sheesham wooden table-top masala dabba. Containers, jars & spoon included."
   },
@@ -89,7 +89,7 @@ const PRODUCTS = [
     "discount": 33,
     "category": "kitchen",
     "categoryLabel": "Kitchen & Dining",
-    "image": "/products/hexagon-masala-box.jpg",
+    "image": "/hexagon-masala-box.jpg",
     "dimensions": "6 compartments + spoon",
     "desc": "Hand-carved wooden hexagon spice box with 6 compartments. Includes lid & spoon."
   },
@@ -102,7 +102,7 @@ const PRODUCTS = [
     "discount": 33,
     "category": "kitchen",
     "categoryLabel": "Kitchen & Dining",
-    "image": "/products/dry-fruit-tray-big.jpg",
+    "image": "/dry-fruit-tray-big.jpg",
     "dimensions": "Leaf design · Large",
     "desc": "Decorative serving plate tray for dry fruits — large leaf design snack tray."
   },
@@ -115,7 +115,7 @@ const PRODUCTS = [
     "discount": 33,
     "category": "kitchen",
     "categoryLabel": "Kitchen & Dining",
-    "image": "/products/kettle-coaster.jpg",
+    "image": "/kettle-coaster.jpg",
     "dimensions": "Set of 6 · Sheesham",
     "desc": "Unique tea coaster set shaped like a kettle. For coffee mugs, tea, water glasses."
   },
@@ -128,7 +128,7 @@ const PRODUCTS = [
     "discount": 33,
     "category": "kitchen",
     "categoryLabel": "Kitchen & Dining",
-    "image": "/products/cutlery-set.jpg",
+    "image": "/cutlery-set.jpg",
     "dimensions": "3 jars + iron stand",
     "desc": "Wooden cutlery holder for dining table — 3 wooden jars + wrought iron stand."
   },
@@ -141,7 +141,7 @@ const PRODUCTS = [
     "discount": 33,
     "category": "kitchen",
     "categoryLabel": "Kitchen & Dining",
-    "image": "/products/dry-fruit-box-small.jpg",
+    "image": "/dry-fruit-box-small.jpg",
     "dimensions": "Small · Compartments",
     "desc": "Multipurpose decorative storage box for nuts & dried fruits. Ideal for gifting."
   },
@@ -154,7 +154,7 @@ const PRODUCTS = [
     "discount": 33,
     "category": "kitchen",
     "categoryLabel": "Kitchen & Dining",
-    "image": "/products/wooden-foldable-apple-stand.jpg",
+    "image": "/wooden-foldable-apple-stand.jpg",
     "dimensions": "Foldable · Carry handle",
     "desc": "Wooden apple-shape foldable fruit basket with carry handle & stand."
   },
@@ -167,7 +167,7 @@ const PRODUCTS = [
     "discount": 36,
     "category": "kitchen",
     "categoryLabel": "Kitchen & Dining",
-    "image": "/products/duck-coaster.jpg",
+    "image": "/duck-coaster.jpg",
     "dimensions": "Set of 6 · Rosewood",
     "desc": "6 round coasters with decorative duck stand, rosewood with brass inlay."
   },
@@ -180,7 +180,7 @@ const PRODUCTS = [
     "discount": 36,
     "category": "kitchen",
     "categoryLabel": "Kitchen & Dining",
-    "image": "/products/elephant-coaster.jpg",
+    "image": "/elephant-coaster.jpg",
     "dimensions": "Set of 6 · Brass",
     "desc": "Wooden handmade tea coasters set of 6, with elephant brass-work stand."
   },
@@ -193,7 +193,7 @@ const PRODUCTS = [
     "discount": 36,
     "category": "kitchen",
     "categoryLabel": "Kitchen & Dining",
-    "image": "/products/sheshaam-single-tray.jpg",
+    "image": "/sheshaam-single-tray.jpg",
     "dimensions": "Sheesham · Mandala",
     "desc": "Wood serving tray with engraved mandala design. Rectangular organiser tray."
   },
@@ -206,7 +206,7 @@ const PRODUCTS = [
     "discount": 36,
     "category": "kitchen",
     "categoryLabel": "Kitchen & Dining",
-    "image": "/products/sheesham-bowls-set-3.jpg",
+    "image": "/sheesham-bowls-set-3.jpg",
     "dimensions": "Set of 2 · Sheesham",
     "desc": "Multipurpose round serving bowl set for snacks. Sheesham wood, set of 2."
   },
@@ -219,7 +219,7 @@ const PRODUCTS = [
     "discount": 36,
     "category": "kitchen",
     "categoryLabel": "Kitchen & Dining",
-    "image": "/products/buckle-tray.jpg",
+    "image": "/buckle-tray.jpg",
     "dimensions": "Live edge · Mango",
     "desc": "Beautiful papaya-shape wooden table-décor tray. Live-edge."
   },
@@ -258,7 +258,7 @@ const PRODUCTS = [
     "discount": 33,
     "category": "kitchen",
     "categoryLabel": "Kitchen & Dining",
-    "image": "/products/pizza-pan-9.jpg",
+    "image": "/pizza-pan-9.jpg",
     "dimensions": "9″ · Sheesham",
     "desc": "Wooden pizza pan / kitchen platter. Sheesham, 9″ inner, 13″ overall."
   },
@@ -310,7 +310,7 @@ const PRODUCTS = [
     "discount": 33,
     "category": "kitchen",
     "categoryLabel": "Kitchen & Dining",
-    "image": "/products/spatula-set-sheshaam.jpg",
+    "image": "/spatula-set-sheshaam.jpg",
     "dimensions": "5 pcs · Sheesham",
     "desc": "Pure sheesham wood spoons & spatulas for non-stick cookware. Cooking, baking, mixing."
   },
@@ -323,7 +323,7 @@ const PRODUCTS = [
     "discount": 33,
     "category": "kitchen",
     "categoryLabel": "Kitchen & Dining",
-    "image": "/products/dry-fruit-tray-small.jpg",
+    "image": "/dry-fruit-tray-small.jpg",
     "dimensions": "Leaf design · Small",
     "desc": "Decorative serving plate tray for dry fruits. Wooden leaf design."
   },
@@ -375,7 +375,7 @@ const PRODUCTS = [
     "discount": 33,
     "category": "kitchen",
     "categoryLabel": "Kitchen & Dining",
-    "image": "/products/mug.jpg",
+    "image": "/mug.jpg",
     "dimensions": "Mango wood",
     "desc": "Handmade wooden mug. Coffee, tea, beer, or decorative use."
   },
@@ -388,7 +388,7 @@ const PRODUCTS = [
     "discount": 33,
     "category": "kitchen",
     "categoryLabel": "Kitchen & Dining",
-    "image": "/products/spatula-set.jpg",
+    "image": "/spatula-set.jpg",
     "dimensions": "5 pcs · Mango",
     "desc": "Natural wooden spoons set & spatula for cooking. Non-stick cookware safe."
   },
@@ -453,7 +453,7 @@ const PRODUCTS = [
     "discount": 33,
     "category": "kitchen",
     "categoryLabel": "Kitchen & Dining",
-    "image": "/products/barrel-jar.jpg",
+    "image": "/barrel-jar.jpg",
     "dimensions": "Sheesham · Single",
     "desc": "Decorlay wooden barrel-shaped cutlery / spoon / utensils jar (single)."
   },
@@ -479,7 +479,7 @@ const PRODUCTS = [
     "discount": 33,
     "category": "kitchen",
     "categoryLabel": "Kitchen & Dining",
-    "image": "/products/spoons.jpg",
+    "image": "/spoons.jpg",
     "dimensions": "Set of 3 · Sheesham",
     "desc": "Naturally non-stick handmade wooden spoons. Set of 3."
   },
@@ -609,7 +609,7 @@ const PRODUCTS = [
     "discount": 35,
     "category": "decor",
     "categoryLabel": "Home Décor",
-    "image": "/products/small-lamp.jpg",
+    "image": "/small-lamp.jpg",
     "dimensions": "Sheesham · Warm glow",
     "desc": "ExclusiveLane Sheesham wooden 'Pyramid' table lamp. Warm ambient glow."
   },
@@ -622,7 +622,7 @@ const PRODUCTS = [
     "discount": 33,
     "category": "decor",
     "categoryLabel": "Home Décor",
-    "image": "/products/wall-stands-set-of-3.jpg",
+    "image": "/wall-stands-set-of-3.jpg",
     "dimensions": "Set of 3",
     "desc": "Wall shelf set of 3 for photos & decorations."
   },
@@ -635,7 +635,7 @@ const PRODUCTS = [
     "discount": 35,
     "category": "decor",
     "categoryLabel": "Home Décor",
-    "image": "/products/planters.jpg",
+    "image": "/planters.jpg",
     "dimensions": "Sheesham · 3-tier",
     "desc": "Modern wooden decorative planter stand rack for indoor / outdoor pots."
   },
@@ -648,7 +648,7 @@ const PRODUCTS = [
     "discount": 35,
     "category": "decor",
     "categoryLabel": "Home Décor",
-    "image": "/products/bagula-set.jpg",
+    "image": "/bagula-set.jpg",
     "dimensions": "Wood + Brass · Pair",
     "desc": "Wooden & brass antique decorative saras (cranes). Pair."
   },
@@ -661,7 +661,7 @@ const PRODUCTS = [
     "discount": 35,
     "category": "decor",
     "categoryLabel": "Home Décor",
-    "image": "/products/wall-shelf.jpg",
+    "image": "/wall-shelf.jpg",
     "dimensions": "Wood + Metal",
     "desc": "Wooden wall shelf with metallic black rustic mounts. Living room / bedroom."
   },
@@ -687,7 +687,7 @@ const PRODUCTS = [
     "discount": 33,
     "category": "decor",
     "categoryLabel": "Home Décor",
-    "image": "/products/remote-stand.jpg",
+    "image": "/remote-stand.jpg",
     "dimensions": "Sheesham · Carved",
     "desc": "Handmade multi-purpose wooden TV remote / desk supplies organiser."
   },
@@ -700,7 +700,7 @@ const PRODUCTS = [
     "discount": 33,
     "category": "decor",
     "categoryLabel": "Home Décor",
-    "image": "/products/dhoopdani-lobandan.jpg",
+    "image": "/dhoopdani-lobandan.jpg",
     "dimensions": "Sheesham · Pyramid",
     "desc": "Dhoop / loban incense holder with ash catcher. Traditional pyramid design."
   },
@@ -713,7 +713,7 @@ const PRODUCTS = [
     "discount": 33,
     "category": "decor",
     "categoryLabel": "Home Décor",
-    "image": "/products/tissue-box.jpg",
+    "image": "/tissue-box.jpg",
     "dimensions": "Sheesham · Brass",
     "desc": "Wooden tissue paper box with brass inlay. Car / home / office."
   },
@@ -726,7 +726,7 @@ const PRODUCTS = [
     "discount": 35,
     "category": "decor",
     "categoryLabel": "Home Décor",
-    "image": "/products/wall-bracket.jpg",
+    "image": "/wall-bracket.jpg",
     "dimensions": "Single piece",
     "desc": "Wall shelf display floating hanging shelf. Single piece."
   },
@@ -739,7 +739,7 @@ const PRODUCTS = [
     "discount": 33,
     "category": "decor",
     "categoryLabel": "Home Décor",
-    "image": "/products/specs-stand-couple-set.jpg",
+    "image": "/specs-stand-couple-set.jpg",
     "dimensions": "Pair · Sheesham",
     "desc": "Wooden nose-shape couple set spectacle, goggles & sunglasses stand. His & Hers décor."
   },
@@ -752,7 +752,7 @@ const PRODUCTS = [
     "discount": 33,
     "category": "decor",
     "categoryLabel": "Home Décor",
-    "image": "/products/paper-weight-and-pen-stand.jpg",
+    "image": "/paper-weight-and-pen-stand.jpg",
     "dimensions": "Sheesham · Cube",
     "desc": "Wooden cube-shape pen / pencil holder. Doubles as paper weight & desk organiser."
   },
@@ -765,7 +765,7 @@ const PRODUCTS = [
     "discount": 33,
     "category": "decor",
     "categoryLabel": "Home Décor",
-    "image": "/products/door-bell.jpg",
+    "image": "/door-bell.jpg",
     "dimensions": "Wood + Brass",
     "desc": "Wall hanging door bell with brass bell. Hand-carved frame."
   },
@@ -778,7 +778,7 @@ const PRODUCTS = [
     "discount": 35,
     "category": "decor",
     "categoryLabel": "Home Décor",
-    "image": "/products/sindoor-dibbi.jpg",
+    "image": "/sindoor-dibbi.jpg",
     "dimensions": "Pair · Carved",
     "desc": "CraftsCollectionStore wooden sindoor / kumkum / shringar box, hand-carved (set of 2)."
   },
@@ -804,7 +804,7 @@ const PRODUCTS = [
     "discount": 33,
     "category": "decor",
     "categoryLabel": "Home Décor",
-    "image": "/products/mobile-stand-folded-hands.jpg",
+    "image": "/mobile-stand-folded-hands.jpg",
     "dimensions": "Sheesham · Carved",
     "desc": "Stylish wooden mobile stand cum table décor in folded-hands design."
   },
@@ -817,7 +817,7 @@ const PRODUCTS = [
     "discount": 33,
     "category": "decor",
     "categoryLabel": "Home Décor",
-    "image": "/products/agarbatti-stand.jpg",
+    "image": "/agarbatti-stand.jpg",
     "dimensions": "Sheesham · Brass",
     "desc": "Pure wooden agarbatti stand with brass-bell cycle design and ash catcher."
   },
@@ -830,7 +830,7 @@ const PRODUCTS = [
     "discount": 33,
     "category": "decor",
     "categoryLabel": "Home Décor",
-    "image": "/products/ash-tray.jpg",
+    "image": "/ash-tray.jpg",
     "dimensions": "Sheesham · Round",
     "desc": "Hand-carved round wooden ash tray. For home, office, car."
   },
@@ -843,7 +843,7 @@ const PRODUCTS = [
     "discount": 33,
     "category": "decor",
     "categoryLabel": "Home Décor",
-    "image": "/products/sheesham-key-hangers.jpg",
+    "image": "/sheesham-key-hangers.jpg",
     "dimensions": "Set of 3",
     "desc": "Stylish key hangers / holders for wall. Carved sheesham, set of 3."
   },
@@ -895,7 +895,7 @@ const PRODUCTS = [
     "discount": 33,
     "category": "decor",
     "categoryLabel": "Home Décor",
-    "image": "/products/mobile-stand.jpg",
+    "image": "/mobile-stand.jpg",
     "dimensions": "Sheesham · Carved",
     "desc": "Wooden single-cell phone stand with hand-carved floral motifs."
   },
@@ -908,7 +908,7 @@ const PRODUCTS = [
     "discount": 36,
     "category": "decor",
     "categoryLabel": "Home Décor",
-    "image": "/products/spec-stand-baby.jpg",
+    "image": "/spec-stand-baby.jpg",
     "dimensions": "Sheesham · Cute",
     "desc": "Cartoon duck-shaped spec stand for kids. Carved sheesham wood."
   },
@@ -973,7 +973,7 @@ const PRODUCTS = [
     "discount": 33,
     "category": "decor",
     "categoryLabel": "Home Décor",
-    "image": "/products/key-rings.jpg",
+    "image": "/key-rings.jpg",
     "dimensions": "Pair · Sheesham",
     "desc": "Sturdy hand-carved key rings for car & bikes. Sold as pair."
   },
@@ -1233,7 +1233,7 @@ const PRODUCTS = [
     "discount": 35,
     "category": "games",
     "categoryLabel": "Games",
-    "image": "/products/playing-card-box.jpg",
+    "image": "/playing-card-box.jpg",
     "dimensions": "Carved · Sheesham",
     "desc": "Hand-carved single-deck card storage case. Tash card holder."
   },
@@ -1246,7 +1246,7 @@ const PRODUCTS = [
     "discount": 33,
     "category": "games",
     "categoryLabel": "Games",
-    "image": "/products/tic-tac-toe-game-with-box.jpg",
+    "image": "/tic-tac-toe-game-with-box.jpg",
     "dimensions": "Carved box · Sheesham",
     "desc": "Classic Tic Tac Toe Zero & Cross game in wooden storage box."
   },
@@ -1259,7 +1259,7 @@ const PRODUCTS = [
     "discount": 33,
     "category": "games",
     "categoryLabel": "Games",
-    "image": "/products/tic-tac-toe-game.jpg",
+    "image": "/tic-tac-toe-game.jpg",
     "dimensions": "Open board · Wood",
     "desc": "Classic Zero & Cross wooden Tic Tac Toe game (open board)."
   },
@@ -1337,7 +1337,7 @@ const PRODUCTS = [
     "discount": 34,
     "category": "furniture",
     "categoryLabel": "Statement Pieces",
-    "image": "/products/atwas-table.jpg",
+    "image": "/atwas-table.jpg",
     "dimensions": "Round carved · Sheesham",
     "desc": "Handmade wooden natural-brown carved table."
   },
@@ -1350,7 +1350,7 @@ const PRODUCTS = [
     "discount": 34,
     "category": "furniture",
     "categoryLabel": "Statement Pieces",
-    "image": "/products/folding-table.jpg",
+    "image": "/folding-table.jpg",
     "dimensions": "Folding · Sheesham",
     "desc": "Hand-crafted folding side stool for living room / office. Lamp / books / vase stand."
   }
