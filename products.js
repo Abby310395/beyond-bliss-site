@@ -2,7 +2,7 @@
 // PRODUCTS — Beyond Bliss Creations
 // Combined R K Handicrafts + Saharanpur PDF catalogue
 // Pricing: Option B (shipping baked in, free shipping marketed)
-// Generated: 103 products
+// Generated: 121 products
 // =====================================================
 
 const CATEGORIES = {
@@ -15,6 +15,162 @@ const CATEGORIES = {
 };
 
 const PRODUCTS = [
+  {
+    "slug": "mandala-bowl-resin-trio",
+    "name": "Mandala Bowls — Carved Wood Inlay (Trio)",
+    "cost": 1100,
+    "price": 2099,
+    "mrp": 3199,
+    "discount": 34,
+    "category": "kitchen",
+    "categoryLabel": "Kitchen & Dining",
+    "image": "/mandala-bowl-resin-trio.jpg",
+    "dimensions": "Mango wood · Resin sealed · Set of 3",
+    "desc": "Set of 3 large pedestal bowls — two with carved wood-inlay mandala design, one with classic checkerboard. Resin-sealed glossy finish."
+  },
+  {
+    "slug": "mango-tray-olive-leaf",
+    "name": "Mango Wood Tray — Olive Leaf Accent",
+    "cost": 750,
+    "price": 1599,
+    "mrp": 2399,
+    "discount": 33,
+    "category": "kitchen",
+    "categoryLabel": "Kitchen & Dining",
+    "image": "/mango-tray-olive-leaf.jpg",
+    "dimensions": "Mango · Pebble shape · Gold leaves",
+    "desc": "Pebble-shaped mango wood tray with hand-cast gold-leaf accent. Modern minimal serving piece for cheese, charcuterie, or décor."
+  },
+  {
+    "slug": "persian-blue-mandala-bowl-large",
+    "name": "Persian Blue Mandala Bowl — Large",
+    "cost": 750,
+    "price": 1599,
+    "mrp": 2399,
+    "discount": 33,
+    "category": "kitchen",
+    "categoryLabel": "Kitchen & Dining",
+    "image": "/persian-blue-mandala-bowl-large.jpg",
+    "dimensions": "Mango wood · ~12″ · Resin enamel",
+    "desc": "Large mango wood serving bowl with intricate Persian blue mandala interior — geometric eight-point star at center. Heirloom-quality enamel work."
+  },
+  {
+    "slug": "mango-tray-white-blossom",
+    "name": "Mango Wood Tray — White Blossom Handles",
+    "cost": 700,
+    "price": 1499,
+    "mrp": 2299,
+    "discount": 35,
+    "category": "kitchen",
+    "categoryLabel": "Kitchen & Dining",
+    "image": "/mango-tray-white-blossom.jpg",
+    "dimensions": "Mango wood · Brass + enamel handles",
+    "desc": "Premium serving tray in mango wood with hand-finished gold-brass branches and white blossom accents. Wedding gifting essential."
+  },
+  {
+    "slug": "mango-tray-pink-rose",
+    "name": "Mango Wood Tray — Pink Rose Handles",
+    "cost": 700,
+    "price": 1499,
+    "mrp": 2299,
+    "discount": 35,
+    "category": "kitchen",
+    "categoryLabel": "Kitchen & Dining",
+    "image": "/mango-tray-pink-rose.jpg",
+    "dimensions": "Mango wood · Brass + pink enamel",
+    "desc": "Square mango wood serving tray with sculpted gold-brass handles featuring pink rose blossoms. Statement piece for hosting."
+  },
+  {
+    "slug": "enamel-bowl-pair-hummingbird-jewel",
+    "name": "Enamel Bowl Pair — Hummingbird & Jewel Mosaic",
+    "cost": 700,
+    "price": 1499,
+    "mrp": 2299,
+    "discount": 35,
+    "category": "kitchen",
+    "categoryLabel": "Kitchen & Dining",
+    "image": "/enamel-bowl-pair-hummingbird-jewel.jpg",
+    "dimensions": "Mango wood · Set of 2 · Resin enamel",
+    "desc": "Workshop-fresh pair: hummingbird floral bowl + jewel-tone mosaic bowl. Hand-printed, resin-coated, food-safe."
+  },
+  {
+    "slug": "enamel-bowl-pair-hummingbird-mosaic",
+    "name": "Enamel Bowl Pair — Hummingbird & Mosaic",
+    "cost": 650,
+    "price": 1399,
+    "mrp": 2099,
+    "discount": 33,
+    "category": "kitchen",
+    "categoryLabel": "Kitchen & Dining",
+    "image": "/enamel-bowl-pair-hummingbird-mosaic.jpg",
+    "dimensions": "Mango wood · Set of 2 · Enamel",
+    "desc": "Pair of hand-printed mango wood bowls — one with delicate hummingbird & floral, one with vibrant mosaic interior. Food-safe enamel coating."
+  },
+  {
+    "slug": "enamel-bowl-pair-persian-hummingbird",
+    "name": "Enamel Bowl Pair — Persian Blue & Hummingbird",
+    "cost": 650,
+    "price": 1399,
+    "mrp": 2099,
+    "discount": 33,
+    "category": "kitchen",
+    "categoryLabel": "Kitchen & Dining",
+    "image": "/enamel-bowl-pair-persian-hummingbird.jpg",
+    "dimensions": "Mango wood · Set of 2 · Enamel",
+    "desc": "Stunning pair of enamel-printed bowls — Persian blue mandala interior + cream hummingbird design. Set of 2."
+  },
+  {
+    "slug": "hummingbird-platter-large",
+    "name": "Hummingbird Platter — Floral Print",
+    "cost": 600,
+    "price": 1299,
+    "mrp": 1999,
+    "discount": 35,
+    "category": "kitchen",
+    "categoryLabel": "Kitchen & Dining",
+    "image": "/hummingbird-platter-large.jpg",
+    "dimensions": "Mango wood · Pebble · Cream",
+    "desc": "Large pebble-shaped serving platter with cream base and hand-printed hummingbird & floral motifs. A talking piece."
+  },
+  {
+    "slug": "mosaic-platter-multicolor",
+    "name": "Mosaic Platter — Multicolor Squares",
+    "cost": 550,
+    "price": 1199,
+    "mrp": 1799,
+    "discount": 33,
+    "category": "kitchen",
+    "categoryLabel": "Kitchen & Dining",
+    "image": "/mosaic-platter-multicolor.jpg",
+    "dimensions": "Mango wood · Resin coated · Pebble",
+    "desc": "Eye-catching pebble-shaped platter with vibrant multicolor mandala-square mosaic print. Resin-coated for protection."
+  },
+  {
+    "slug": "mosaic-platter-blue-yellow",
+    "name": "Mosaic Platter — Blue & Yellow Geometric",
+    "cost": 550,
+    "price": 1199,
+    "mrp": 1799,
+    "discount": 33,
+    "category": "kitchen",
+    "categoryLabel": "Kitchen & Dining",
+    "image": "/mosaic-platter-blue-yellow.jpg",
+    "dimensions": "Mango wood · Resin coated · Pebble",
+    "desc": "Persian-inspired geometric mosaic platter with rich blues, yellows, and pinks. Pebble shape, resin-finished."
+  },
+  {
+    "slug": "sushi-tray-magnolia",
+    "name": "Sushi Tray — Engraved Magnolia",
+    "cost": 400,
+    "price": 899,
+    "mrp": 1399,
+    "discount": 36,
+    "category": "kitchen",
+    "categoryLabel": "Kitchen & Dining",
+    "image": "/sushi-tray-magnolia.jpg",
+    "dimensions": "Mango wood · Long oval · Engraved",
+    "desc": "Long oval mango wood tray with delicate magnolia engraving in corner. Perfect for sushi, cheese, or candle styling."
+  },
   {
     "slug": "serving-redi-trolley",
     "name": "Serving Redi — Trolley Tray",
@@ -601,6 +757,45 @@ const PRODUCTS = [
     "desc": "Wooden cutlery set in multiple sizes."
   },
   {
+    "slug": "tree-of-life-wall-dark-brown",
+    "name": "Tree of Life Wall Hanging — Sheesham Dark",
+    "cost": 700,
+    "price": 1499,
+    "mrp": 2299,
+    "discount": 35,
+    "category": "decor",
+    "categoryLabel": "Home Décor",
+    "image": "/tree-of-life-wall-dark-brown.jpg",
+    "dimensions": "Sheesham · ~14″ · Carved tray",
+    "desc": "Tree of Life carved wall medallion mounted on detailed sheesham scalloped tray. Premium dark wood finish."
+  },
+  {
+    "slug": "tree-of-life-wall-turquoise",
+    "name": "Tree of Life Wall Hanging — Turquoise & Gold",
+    "cost": 600,
+    "price": 1299,
+    "mrp": 1999,
+    "discount": 35,
+    "category": "decor",
+    "categoryLabel": "Home Décor",
+    "image": "/tree-of-life-wall-turquoise.jpg",
+    "dimensions": "Mango wood · ~12″ · Distressed turquoise",
+    "desc": "Hand-painted distressed turquoise & gold Tree of Life wall hanging. Boho-luxe finish, statement wall art."
+  },
+  {
+    "slug": "tree-of-life-wall-copper",
+    "name": "Tree of Life Wall Hanging — Antique Copper",
+    "cost": 550,
+    "price": 1199,
+    "mrp": 1799,
+    "discount": 33,
+    "category": "decor",
+    "categoryLabel": "Home Décor",
+    "image": "/tree-of-life-wall-copper.jpg",
+    "dimensions": "Mango wood · ~12″ · Copper finish",
+    "desc": "Round Tree of Life wall hanging with hand-applied antique copper distressed finish. Spiritual décor focal piece."
+  },
+  {
     "slug": "small-lamp",
     "name": "Pyramid Table Lamp",
     "cost": 700,
@@ -1002,6 +1197,45 @@ const PRODUCTS = [
     "image": "https://5.imimg.com/data5/SELLER/Default/2020/11/RX/KC/PP/37510322/new-product-250x250.jpeg",
     "dimensions": "Boxed",
     "desc": "Classic wooden pen stand. Desk essential."
+  },
+  {
+    "slug": "carved-treasure-chest-floral",
+    "name": "Hand-Carved Treasure Chest — Floral Lattice",
+    "cost": 1400,
+    "price": 2599,
+    "mrp": 3899,
+    "discount": 33,
+    "category": "boxes",
+    "categoryLabel": "Boxes & Storage",
+    "image": "/carved-treasure-chest-floral.jpg",
+    "dimensions": "Sheesham · Brass clasp · Heirloom",
+    "desc": "Hand-carved treasure chest with intricate openwork floral lattice on lid and front, brass clasp, footed base. Heirloom centerpiece."
+  },
+  {
+    "slug": "round-enamel-box-trio",
+    "name": "Round Enamel Lidded Boxes (Set of 3)",
+    "cost": 950,
+    "price": 1799,
+    "mrp": 2699,
+    "discount": 33,
+    "category": "boxes",
+    "categoryLabel": "Boxes & Storage",
+    "image": "/round-enamel-box-trio.jpg",
+    "dimensions": "Mango wood · Set of 3 · Enamel lids",
+    "desc": "Trio of round wooden boxes with hand-printed enamel lids — vintage floral, multicolor bubbles, and hummingbird & flora prints. Storage + display."
+  },
+  {
+    "slug": "tree-of-life-carved-box-rectangular",
+    "name": "Tree of Life Jewellery Box — Carved Rectangular",
+    "cost": 850,
+    "price": 1699,
+    "mrp": 2599,
+    "discount": 35,
+    "category": "boxes",
+    "categoryLabel": "Boxes & Storage",
+    "image": "/tree-of-life-carved-box-rectangular.jpg",
+    "dimensions": "Sheesham · 8″ × 5″ · Hand-carved",
+    "desc": "Premium hand-carved Tree of Life jewellery box. Detailed central tree medallion surrounded by floral relief carving. Sheesham wood, ~8×5 inches."
   },
   {
     "slug": "wooden-wine-box",
